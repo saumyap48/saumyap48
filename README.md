@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      A Third-year CSE AI student passionate about creating efficient and creative web solutions. With experience in several programming languages and frameworks, I enjoy bringing ideas to life in the browser. I love coding challenges and have solved over 250 questions on CodeChef,leetcode.geeksfrogeeks. I'm also eager to collaborate with like-minded developers to build great things!
+      A Third-year CSE AI student passionate about creating efficient and creative web solutions. With experience in several programming languages and frameworks, I enjoy bringing ideas to life in the browser. I love coding challenges and have solved over 500 questions on CodeChef,leetcode.geeksfrogeeks. I'm also eager to collaborate with like-minded developers to build great things!
     </p>
   </div>
   <div style="flex: 1;">
