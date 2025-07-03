@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm saumya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
