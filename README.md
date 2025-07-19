@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      A Third-year CSE AI student passionate about creating efficient and creative web solutions. With experience in several programming languages and frameworks, I enjoy bringing ideas to life in the browser. I love coding challenges and have solved over 500 questions on CodeChef,leetcode.geeksfrogeeks. I'm also eager to collaborate with like-minded developers to build great things!
+Final-year CSE (AI) student with a passion for transforming ideas into real-world web solutions that simplify lives. I aspire to become a web developer who not only writes clean, efficient code but also builds applications that solve meaningful problems. Skilled in React, Node.js, Express, MongoDB, Python, with hands-on experience using Git and REST APIs. As a GSSoC ’24 contributor, I thrive in team environments and constantly seek opportunities to create tech that truly makes a difference.
     </p>
   </div>
   <div style="flex: 1;">
