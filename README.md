@@ -40,7 +40,7 @@ Recently graduated in Computer Science & Engineering (AI), with a passion for tr
     />
   </a>
 
-  <a href="https://leetcode.com/saumya48" target="_blank">
+  <a href="https://leetcode.com/saumyap2448" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="LeetCode"
